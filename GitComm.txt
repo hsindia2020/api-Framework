@@ -1,0 +1,6 @@
+Microsoft Windows [Version 10.0.22621.4317]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\LENOVO>git config --global user.name "hsindia2020"
+
+C:\Users\LENOVO>git config --global user.email "hsindia2020@gmail.com"
