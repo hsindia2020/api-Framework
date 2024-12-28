@@ -4,3 +4,11 @@ Microsoft Windows [Version 10.0.22621.4317]
 C:\Users\LENOVO>git config --global user.name "hsindia2020"
 
 C:\Users\LENOVO>git config --global user.email "hsindia2020@gmail.com"
+
+cd APIFramework
+git init 
+git add *
+git status
+git commit -m "First commit"
+git remote add origin https://github.com/hsindia2020/api-Framework.git
+git push origin master

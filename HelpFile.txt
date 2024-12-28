@@ -1,0 +1,9 @@
+Cucumber BDD API Framework Development from Scratch
+80. Running the Test in Cucumber Standards with necessary Configuration changes
+78. Building Test Runner and Step Definition files for Add Place API Feature Test
+81. Building Utility Files and Implement Logging feature in Framework
+83. Data Driven Testing Mechanism for API Tests using Cucumber example feature
+85. Parameterize API  Test with multiple Data sets using Cucumber Framework features
+86. What are Enum classes? How Framework can utilize the Enum concepts
+91. Importance of Cucumber Hooks in setting up Preconditions for API Tests
+93. Running the Complete Framework using Maven commands  23/1
